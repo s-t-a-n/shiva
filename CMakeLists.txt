@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
 project(
-	cpp-shiva
+	shiva
 	VERSION 0.1
 	DESCRIPTION "C / C++ debugging and testing - may shiva rattle your bugs "
 	LANGUAGES C CXX)
